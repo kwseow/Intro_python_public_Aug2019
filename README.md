@@ -5,3 +5,7 @@ https://www.python.org/downloads/
 
 ## Wing 101 Python IDE
 https://wingware.com/downloads/wingide-101
+
+## PyCharm IDE
+https://www.jetbrains.com/pycharm/
+
