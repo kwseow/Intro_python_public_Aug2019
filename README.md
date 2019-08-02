@@ -13,3 +13,5 @@ https://www.anaconda.com/distribution/
 ## PyCharm IDE (not required for this course, but useful for future.  Download Community Version)
 https://www.jetbrains.com/pycharm/
 
+## Hosted Python (not required for this course, but useful for future.  Basic service is free)
+https://www.pythonanywhere.com/
